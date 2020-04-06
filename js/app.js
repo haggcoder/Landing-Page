@@ -69,7 +69,6 @@ function setActive(){
             }else{
                 section.classList.remove("your-active-class");
             }
-            
         }
         // Style navigation link, associated with currently active section.
         let childrens = navBar.children;
