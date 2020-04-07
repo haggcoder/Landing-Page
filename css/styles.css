@@ -82,6 +82,12 @@ section {
     color: #000;
 }
 
+@media only screen and (min-width: 35em){
+    .navbar__menu .menu__link {
+        display: inline-block;
+    }
+}
+
 .active__link {
     background: burlywood;
 }
